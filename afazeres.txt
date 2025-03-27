@@ -1,0 +1,6 @@
+1. Realizar últimos ajustes no Quarto Exercício (Boas práticas de mercado e pegar a collection do postman)
+2. Fazer versão preliminar do Exercío 3 (Vai levar tempo)
+3. Realizar ultimos ajustes no Exercío 2 (Boas práticas de mercado)
+4. Realizar últimos ajustes do Exercíco 3 (Boas práticas de mercado)
+5. Realizar bom versionamento e organização em um novo repositório do GitHub (Branches para cada Exercío e uma Master Final)
+6. Realizar e deploy do back-end e front-end do Exercício 4 e colocar links no README.
