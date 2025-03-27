@@ -11,7 +11,6 @@ df = pd.read_csv(CSV_PATH, delimiter=';', encoding='latin1')
 
 # Normalizar colunas para evitar problemas com espaços extras
 df.columns = df.columns.str.strip()
-#print(df["Nome_Fantasia"].head(15))
 
 @app.route("/buscar_operadora", methods=["GET"])
 def buscar_operadora():
